@@ -3,17 +3,14 @@
 import Image from "next/image"
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import {
   BookOpen,
   Sprout,
-  ArrowRight,
   Send,
   MapPin,
   Calendar,
   Phone,
   Mail,
-  ChevronRight,
   Award,
   Users,
   TrendingUp,
